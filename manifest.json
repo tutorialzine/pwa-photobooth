@@ -1,0 +1,19 @@
+{
+  "name": "Progressive Web App: PhotoBooth",
+  "short_name": "PhotoBooth",
+  "description": "Simple Progressive Web App for taking selfies.",
+  "icons": [{
+      "src": "assets/icons/ic-face.png",
+      "type": "image/png",
+      "sizes": "72x72"
+    }, {
+      "src": "assets/icons/ic-face-large.png",
+      "type": "image/png",
+      "sizes": "144x144 256x256" 
+    }],
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#fff",
+  "orientation": "portrait"
+}
